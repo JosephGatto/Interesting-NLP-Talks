@@ -8,5 +8,5 @@ https://www.youtube.com/watch?v=t_A36DDcG_0
 
 
 ### Workshop on Foundation Models (5:13:05)
-A long but exciting workshop on large language models. Various talks from many researchers about ethics, economics, future work, current challenges, etc. of models like BERT and GPT.
+A long but exciting workshop on large language models. Various talks and panel discussions from many researchers about ethics, economics, scalability, future work, and current challenges surrounding models like BERT and GPT.
 https://www.youtube.com/watch?v=AYPOzc50PHw
