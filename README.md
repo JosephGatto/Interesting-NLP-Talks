@@ -17,5 +17,5 @@ https://www.youtube.com/watch?v=u3IR6sSwwjg
 ### How can we know what and when language models know (49:45)
 youtube.com/watch?v=kkb8n3itFMk
 
-### Intuitive Reasoning as (Un)supervised Neural Generation
+### Intuitive Reasoning as (Un)supervised Neural Generation (1:02:44)
 https://www.youtube.com/watch?v=QN_LUgU9-kg
