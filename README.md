@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=AYPOzc50PHw
 
 ### Learning Representations of Semantic Concepts and their Causal Relationships: Inspiration from Conscious Processing (58:24)
 https://www.youtube.com/watch?v=u3IR6sSwwjg
+
+### How can we know what and when language models know (49:45)
+youtube.com/watch?v=kkb8n3itFMk
